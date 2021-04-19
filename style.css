@@ -64,6 +64,10 @@ main {
   padding-left: 37px;
 }
 
+#lang-switch {
+  font-weight: 300;
+}
+
 /* Neon effect
 adapted from - https://codepen.io/Trinca/pen/NAvpWa */
 
