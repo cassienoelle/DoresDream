@@ -86,12 +86,12 @@ adapted from - https://codepen.io/Trinca/pen/NAvpWa */
   47%,
   100% {
     text-shadow: 0 0 4px #1041FF, 0 0 8px #1041FF, 0 0 12px #1041FF, 0 0 12px #1041FF, 0 0 10px #8BFDFE;
-    color: #28D7FE;
+    color: #B3D2FF;
   }
   26%,
   46% {
     text-shadow: 0 0 8px #082180, 0 0 8px #082180, 0 0 8px #082180, 0 0 8px #082180, 0 0 6px #082180;
-    color: #146C80;
+    color: #115B96;
   }
 }
 
