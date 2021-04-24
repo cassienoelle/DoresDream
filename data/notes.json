@@ -1,0 +1,37 @@
+[
+  {
+    "id":"2TBLUX"
+    "title":"Changing Crossroads: Ste-Catherine & St-Laurent",
+    "blurb":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pellentesque faucibus egestas. Quisque vitae interdum dui, sed sagittis metus. Nulla cursus a eros et faucibus. Etiam nisi dolor, commodo nec cursus eu, imperdiet ac velit. Phasellus id suscipit elit.",
+    "imgs":
+          [
+              {
+                "img" : {
+                          "url" : "st-cats-corner.gif",
+                          "caption" : "Corner Ste-Catherine & St-Laurent in 1976 and 2020"
+                         },
+                "img" : {
+                          "url" : "2TBLUX-17.jpeg",
+                          "caption" : "Circa 1921"
+                         }
+              }
+          ]
+  },
+  {
+    "title":"A Funeral for The Main",
+    "blurb":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pellentesque faucibus egestas. Quisque vitae interdum dui, sed sagittis metus. Nulla cursus a eros et faucibus.",
+    "imgs":
+          [
+              {
+                "img" : {
+                          "url" : "funeral-gif.gif",
+                          "caption" : "Placeholder"
+                         },
+                "img" : {
+                          "url" : "43.jpeg",
+                          "caption" : "Image credit: S.E. Amesse"
+                         }
+              }
+          ]
+  }
+]
